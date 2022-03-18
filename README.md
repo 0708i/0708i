@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @0708i
 - 👀 I’m interested in ...making one of the biggest problem solvers worldwide
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... growing this project to be one of the best
 - 📫 How to reach me ... mucherilevy2001@gmail.com
 
